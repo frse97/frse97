@@ -1,6 +1,20 @@
-### Hello World :alien: 
-
-My name is Sebastian. I work as Junior Frontend Developer for [WBI](https://wbi.at), a knowledge management company based in Austria.
+<table>
+<tbody>
+  <tr>
+    <td>
+        <h2>Hello World :alien: </h2>
+        <img width="400" height="auto" src="https://github.com/frse97/frse97/blob/master/public/img.jpg?raw=true" />
+    </td>
+    <td>
+        <span>
+            I'm a 22 years old Frontend Developer based in Austria.
+            Currently i'm working for a Knowledge Management Company (<a href="wbi.at">WBI</a>).
+            I was lucky enough to have been born by the sea :beach_umbrella: but still lived a long part of my life in the mountains :national_park:.
+        </span>
+    </td>
+  </tr>
+<tbody>
+</table>
 
 What i :heart: | What i :broken_heart:
 ------------ | -------------
