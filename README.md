@@ -17,14 +17,6 @@
 <tbody>
 </table>
 
-What i :heart: | What i :broken_heart:
------------- | -------------
-:couple: | :cheese: 
-:paintbrush:  | :clown_face:
-:plate_with_cutlery: | 
-
-- My next plans ...
-  - :skull: trying to survive
 
 - 📫 How to reach me: ...
   - :octocat: [Github](https://github.com/frse97)
