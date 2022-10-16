@@ -7,7 +7,7 @@
     </td>
     <td>
         <span>
-            I'm a 24 years old Frontend Developer based in Austria.
+            I'm a 25 years old Frontend Developer based in Austria.
             Currently i'm working for a Knowledge Management Company (<a href="wbi.at">WBI</a>).
             I was lucky enough to have been born by the sea :beach_umbrella: but still lived a long part of my life in the mountains :national_park:. I love to be in nature :evergreen_tree:, and beeing a proud nerd. :video_game: 
             If you like my projects give them a :star: and <code>Happy coding!</code> 
